@@ -5,7 +5,7 @@ Features include:
 
 - 2 servo TVC outputs, controlled by the Teensy
 - 1 servo output for parachute deploy
-- 1 pyro channel for parachute deploy/separation events
+- 2 pyro channels for motor reignition and landing leg deployment
 - Runs off a 9V battery
 
 Components list:
